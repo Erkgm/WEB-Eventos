@@ -8,7 +8,7 @@ body {
   font-family: "Roboto", sans-serif;
   line-height: 1.6;
   color: #ffffff;
-  background-image: url('/img/Capa_seminfo__(1)[1].png');
+  background-image: url('../img/Capa_seminfo__(1)[1].png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
